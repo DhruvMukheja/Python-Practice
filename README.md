@@ -1,2 +1,3 @@
 # Python-Practice
-It contains the code written during the practice of python
+1-It contains the code written during the practice of python.
+2-This is my first commit.
